@@ -1,0 +1,14 @@
+			.face{text-align: center;}
+			.image{height:200px; width:200px; background-color: (0,0,0,0);}
+			.name{text-align: center;font-size:60px;font-family: STKaiti;margin:20px; }
+			.ltt{margin-left:50%;font-size:20px;font-family: STKaiti;margin-bottom:20px;}
+			.intro{margin-left:30%;margin-right:30%;font-size:20px;margin-bottom: 100px;}
+			.icon{height:20px; width:20px; border-radius:20px; }
+			.infoword{font-size:20px;font-family: STKaiti;}
+			.introtitleb{background: #f2a7b1;border-radius:100px;}
+			.infob1{background: #f0ffff;border-radius:100px;}
+			.infob2{background: white;border-radius:100px;}
+
+			@-webkit-keyframes delay{100%{-webkit-transform:rotate(360deg);-webkit-transform-origin: center;}}
+    		.pan{margin-top:35%;margin-left:77%;width:300px;height:300px;background-color: (0,0,0,0));-webkit-animation:delay 10s linear 0.9s infinite;}
+			.cidao{margin-top:29.5%;margin-left:75%;width:396px;height:180px;background-color: (0,0,0,0));}
