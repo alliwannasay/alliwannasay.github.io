@@ -16,5 +16,5 @@
 
 			@-webkit-keyframes delay{100%{-webkit-transform:rotate(360deg);-webkit-transform-origin: center;}}
 			@-webkit-keyframes button{0%{color: black}100%{color: red;}}
-    		.pan{margin-top:35%;margin-left:77%;width:300px;height:300px;background-color: (0,0,0,0));-webkit-animation:delay 10s linear 0.9s infinite;}
-			.cidao{margin-top:29.5%;margin-left:75%;width:396px;height:180px;background-color: (0,0,0,0));}
+    		.pan{bottom:0px;right:0px;width:300px;height:300px;background-color: (0,0,0,0));-webkit-animation:delay 10s linear 0.9s infinite;}
+			.cidao{bottom:195px;right:-40px;width:396px;height:180px;background-color: (0,0,0,0));}
